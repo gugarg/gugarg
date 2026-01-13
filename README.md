@@ -1,49 +1,46 @@
-# Olá, eu sou o Gustavo! 👋
+# Hi, I'm Gustavo Ricardo! 👋
 
-## 🚀 Sobre Mim
+Me chamo Gustavo Ricardo, moro em Porto Velho/RO. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no **IFRO** e atuo na **Compass UOL**.
 
-Como um entusiasta da tecnologia focado em **Engenharia de Dados**, busco não apenas escrever código, mas desenvolver soluções que transformem dados brutos em inteligência para tomada de decisão.
+Como um entusiasta focado em **Engenharia de Dados**, não busco apenas escrever código, mas desenvolver soluções e pipelines que transformem dados brutos em inteligência para tomada de decisão estratégica.
+
+<details>
+  <summary><b>🇺🇸 Click here to read in English</b></summary>
+  <br>
+  I'm Gustavo Ricardo, based in Porto Velho, Brazil. Currently, I'm a Systems Analysis and Development student at <b>IFRO</b> and I work at <b>Compass UOL</b>.
+  <br><br>
+  My main focus is <b>Data Engineering</b>. I strive not just to write code, but to build solutions and pipelines that transform raw data into actionable intelligence for strategic decision-making.
+</details>
 
 ---
 
-## 📚 Aprendendo
+## 🛠️ Tecnologias & Ferramentas
 
-Meu foco atual de estudos técnicos está concentrado na base essencial para dados:
+Estou focado em construir uma base sólida para manipulação de grandes volumes de dados e automação:
 
-* 🐍 **Python:** Desenvolvimento de scripts para automação, manipulação de dados e construção de pipelines.
-* 🗄️ **SQL:** Modelagem de bancos de dados relacionais e elaboração de consultas para extração de insights.
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,docker" />
+  </a>
 </div>
+<br>
 
 ---
 
-## 🎯 Objetivos de Carreira
+## ⚡ Hobbies & Interesses
 
-* Evoluir para a área de **Engenharia de Dados** e **Big Data**.
-* Aprofundar conhecimentos em **Cloud Computing** (multi-cloud).
-* Contribuir em projetos que envolvam **ETL** e automação de pipelines.
+Fora do computador, é assim que recarrego as energias:
 
----
-
-## 🎮 Hobbies e Interesses
-
-
-* 🍕 **Networking:** Participação em encontros e eventos de tecnologia.
-* 🚴 **Esportes:** Praticante ativo de ciclismo, academia e vôlei.
+* 🏋️ **Esportes:** Musculação, Vôlei e Ciclismo.
+* 👨‍🍳 **Culinária:** Cozinhar nas horas vagas.
 * 👾 **Geek:** Jogos e filmes.
 
 ---
 
-## 📫 Como me contatar:
+## 📫 Vamos conversar?
 
-<div style="display: inline_block">
+<div align="center">
   <a href="https://www.linkedin.com/in/gustavo-ricardo-goncalves/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -52,7 +49,7 @@ Meu foco atual de estudos técnicos está concentrado na base essencial para dad
   </a>
 </div>
 
+<br>
 <div align="center">
-  <br>
   <p><i>"Tecnologia é transformar dificuldade em clareza."</i></p>
 </div>
